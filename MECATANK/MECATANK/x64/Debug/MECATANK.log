@@ -1,0 +1,4 @@
+﻿  MECATANK.cpp
+C:\Users\XPC\OneDrive - Estudiantes ITCR\Documentos\Ing. Computacion\Quinto Semestre\Estructuras de Datos\TP\TP1\MECATANK\MECATANK.cpp(33,30): warning C4081: se esperaba 'newline'; se encontró ';'
+C:\Users\XPC\OneDrive - Estudiantes ITCR\Documentos\Ing. Computacion\Quinto Semestre\Estructuras de Datos\TP\TP1\MECATANK\MECATANK.cpp(1051,13): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+  MECATANK.vcxproj -> C:\Users\XPC\OneDrive - Estudiantes ITCR\Documentos\Ing. Computacion\Quinto Semestre\Estructuras de Datos\TP\TP1\MECATANK\x64\Debug\MECATANK.exe

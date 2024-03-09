@@ -1,0 +1,3 @@
+﻿  Matrix.cpp
+C:\Users\XPC\OneDrive - Estudiantes ITCR\Documentos\Ing. Computacion\Quinto Semestre\Estructuras de Datos\TP\TP1\Matrix\Matrix.cpp(16,2): warning C4091: 'typedef ': se ha omitido a la izquierda de 'hilera' cuando no hay ninguna variable declarada
+  Matrix.vcxproj -> C:\Users\XPC\OneDrive - Estudiantes ITCR\Documentos\Ing. Computacion\Quinto Semestre\Estructuras de Datos\TP\TP1\Matrix\x64\Debug\Matrix.exe
